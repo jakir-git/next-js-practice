@@ -1,5 +1,5 @@
 export default function About(){
-      throw new Error('There was an error');
+    //throw new Error('There was an error');
     return(
         <main className="flex min-h-screen flex-col items-center justify-between p-24">
             <h1>This is about page</h1>
